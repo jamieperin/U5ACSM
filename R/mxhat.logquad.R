@@ -5,9 +5,8 @@ mxhat.logquad <- function(coefs, sex, Q5, k=rep(0,length(Q5))) {
 	#           coefs contains coefficients ax, bx, cx, and vx
 	# Outputs:  Vector (or matrix) of predicted sex-specific mx values
 	#           with age groups 0, 1-4, 5-9, ..., 110+
-	#ages <- c("0", "1-4", paste(seq(5,105,5), seq(9,109,5), sep="-"), "110+")
-#  cat("LOGQUAD\n")
-  ages<- c("0-6day","7-27day","1-5m","6-11m","12-23m","24-59m")
+
+    ages<- c("0-6day","7-27day","1-5m","6-11m","12-23m","24-59m")
 
 	if (length(Q5)!=length(k)) { print("error: Q5 and k input vectors must have same length"); break }
 	#if (!is.array(coefs)) { print("Error: table of coefficients must be an array"); break }
