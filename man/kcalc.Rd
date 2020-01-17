@@ -1,0 +1,16 @@
+\name{kcalc}
+\alias{kcalc}
+
+\title{WLS}
+\usage{
+kcalc()
+}
+\description{
+	To fit cause specific under 5 Q, when qx's are predicted directly
+  To match cause specific neonatal mortality}
+\examples{
+kcalc()
+}
+\references{
+Wilmoth J, Zureick S, Canudas-Romo V, Inoue M, Sawyer C. A flexible two-dimensional mortality model for use in indirect estimation. \emph{Population studies}. 2012 Mar 1;66(1):1-28.
+}
