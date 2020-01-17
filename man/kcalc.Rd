@@ -6,7 +6,7 @@
 kcalc()
 }
 \description{
-	To fit cause specific under 5 Q, when qx's are predicted directly
+	To fit cause specific under 5 Q, when qxs are predicted directly
   To match cause specific neonatal mortality}
 \examples{
 kcalc()
