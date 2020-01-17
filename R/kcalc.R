@@ -1,6 +1,7 @@
-#To fit cause specific under 5 Q, when qx's are predicted directly
-#To match cause specific neonatal mortality
 kcalc <- function(coefs, Q5, match) {
+  #To fit cause specific under 5 Q, when qx's are predicted directly
+  #To match cause specific neonatal mortality
+  
     ages<- c("0-6day","7-27day","1-5m","6-11m","12-23m","24-59m")
     vx <- coefs[, "vx"]
 	if (length(Q5)==1) {

@@ -1,7 +1,7 @@
 \name{kcalc}
 \alias{kcalc}
 
-\title{WLS}
+\title{Estimating specific life tables of fixed child ages}
 \usage{
 kcalc()
 }
