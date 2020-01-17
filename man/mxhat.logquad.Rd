@@ -8,7 +8,7 @@ kcalc()
 \description{
 	 Inputs:   Q5, sex, k (optional; default is k=0), and model coefficients
 	           Q5 and k can be scalar or vector, but must have same length
-	           coefs contains coefficients ax, bx, cx, and vx
+	           coefs contains coefficients ax, bx, cx, and vx \\
 	           
 	 Outputs:  Vector (or matrix) of predicted sex-specific mx values
 	           with age groups 0, 1-4, 5-9, ..., 110+
