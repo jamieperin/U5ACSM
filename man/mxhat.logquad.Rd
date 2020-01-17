@@ -3,7 +3,7 @@
 
 \title{Estimating specific life tables of fixed child ages}
 \usage{
-kcalc()
+mxhat.logquad()
 }
 \description{
 	 Inputs:   Q5, sex, k (optional; default is k=0), and model coefficients
