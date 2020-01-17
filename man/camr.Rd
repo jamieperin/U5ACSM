@@ -9,13 +9,14 @@
   \item{reg}{Region of China (east, middle, or west)}
   \item{res}{rural or urban}
   \item{year}{Year of surveillance}
-  \item{nmr}{Neonatal mortality (per live birth)}
-  \item{u5mr}{Under five mortality (per live birth)}
+  \item{qc_nCH9}{Neonatal mortality (per live birth)}
+  \item{qc_nCH17}{Under five mortality (per live birth)}
+  \item{qc_ntotal}{Under five mortality (per live birth)}
     ...
 }}
 \source{
 \url{https://www.sciencedirect.com/science/article/pii/S2214109X16303345}
 }
 \usage{
-u5mr
+camr
 }
