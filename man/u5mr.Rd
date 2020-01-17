@@ -18,3 +18,6 @@
 \usage{
 u5mr
 }
+\references{
+He C, Liu L, Chu Y, Perin J, Dai L, Li X, Miao L, Kang L, Li Q, Scherpbier R, Guo S. National and subnational all-cause and cause-specific child mortality in China, 1996–2015: a systematic analysis with implications for the Sustainable Development Goals. The Lancet Global Health. 2017 Feb 1;5(2):e186-97.
+}

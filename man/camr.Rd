@@ -2,7 +2,7 @@
 \docType{data}
 \name{camr}
 \alias{camr}
-\title{(Data) child mortality in China, cummulative by age and strata of MCHSS.}
+\title{(Data) child mortality in China, cummulative by age, strata, and year of MCHSS.}
 \format{A data frame with 720 rows and 6 variables:
 \describe{
   \item{agegp}{Age group of children in MCHSS}
