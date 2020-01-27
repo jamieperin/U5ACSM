@@ -11,7 +11,6 @@
   \item{year}{Year of surveillance}
   \item{qc_nCH9}{Cummulative mortaliy (from 0 to age upper limit) due to pneumonia (per live birth)}
   \item{qc_nCH17}{Cummulative mortaliy (from 0 to age upper limit) due to injury (per live birth)}
-  \item{qc_ntotal}{Cummulative mortaliy (from 0 to age upper limit) due to all causes (per live birth)}
     ...
 }}
 \source{
